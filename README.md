@@ -12,7 +12,7 @@ There is no official `gnome-clocks` for RHEL8 and thus the world clock is missin
 ## Installation
 
 ```bash
-sudo dnf install -y https://github.com/luckylittle/GNOME-Clocks-for-RHEL8/raw/master/RPMS/x86_64/gnome-clocks-3.28.0-1.el8.x86_64.rpm`
+sudo dnf install -y https://github.com/luckylittle/GNOME-Clocks-for-RHEL8/raw/master/RPMS/x86_64/gnome-clocks-3.28.0-1.el8.x86_64.rpm
 ```
 
 |Table                |       |
