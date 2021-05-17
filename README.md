@@ -6,7 +6,7 @@ There is no official `gnome-clocks` for RHEL8 and thus the world clock is missin
 ![alt text](https://github.com/luckylittle/GNOME-Clocks-for-RHEL8/blob/master/tmp/before.png?raw=true)
 
 ## After - screenshot
-![alt text](https://github.com/[username]/GNOME-Clocks-for-RHEL8/blob/master/tmp/after.png?raw=true)
+![alt text](https://github.com/luckylittle/GNOME-Clocks-for-RHEL8/blob/master/tmp/after.png?raw=true)
 
 
 ## Installation
